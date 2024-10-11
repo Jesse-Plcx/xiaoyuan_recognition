@@ -1,11 +1,11 @@
 # 小猿识别项目 🐒
 
+[中文](README-zh.md) | [English](README-en.md)
 
 [![GitHub stars](https://img.shields.io/github/stars/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/network)
 [![GitHub issues](https://img.shields.io/github/issues/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/issues)
 [![GitHub license](https://img.shields.io/github/license/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/blob/master/LICENSE)
-
 
 ## 🐵 项目介绍
 本Python项目运用Tesseract OCR技术，自动识别"小猿口算"应用中的加减法算术题。目前能够解决难度高达三年级的二位到三位算术加减问题，堪称效率的得力助手。
