@@ -1,6 +1,6 @@
 # 小猿识别项目 🐒
 
-[中文](README-zh.md) | [English](README-en.md)
+[中文](README.md) | [English](README-en.md)
 
 [![GitHub stars](https://img.shields.io/github/stars/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/network)
