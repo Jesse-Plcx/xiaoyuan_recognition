@@ -6,7 +6,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/issues)
 [![GitHub license](https://img.shields.io/github/license/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/blob/master/LICENSE)
 
-这是一个创新的自动化项目，能够识别屏幕上的算术表达式并模拟手写结果。通过结合计算机视觉、文字识别和自动化操作，本项目展示了如何解决实际问题，是一个引人入胜的自动化应用示例。
+
+## 🐵 项目介绍
+本Python项目运用Tesseract OCR技术，自动识别"小猿口算"应用中的加减法算术题。目前能够解决难度高达三年级的二位到三位算术加减问题，堪称效率的得力助手。
 
 ## 🚀 主要功能
 
@@ -15,4 +17,6 @@
 - **智能计算**：解析识别出的表达式并进行准确计算
 - **手写模拟**：利用 `pyautogui` 逼真地模拟手写计算结果
 
-## 📁 项目结构
+
+## 🚨 声明
+此项目目前仍处于测试初级阶段，仅用于技术学习和研究，请勿用于任何非法用途。并且本人不推荐炸鱼等相关行为。
