@@ -1,11 +1,10 @@
 # 小猿识别项目 🐒
 
-![项目Logo](images/logo.png)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/xiayuan-recognition.svg)](https://github.com/yourusername/xiayuan-recognition/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/xiayuan-recognition.svg)](https://github.com/yourusername/xiayuan-recognition/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/xiayuan-recognition.svg)](https://github.com/yourusername/xiayuan-recognition/issues)
-[![GitHub license](https://img.shields.io/github/license/yourusername/xiayuan-recognition.svg)](https://github.com/yourusername/xiayuan-recognition/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/network)
+[![GitHub issues](https://img.shields.io/github/issues/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/issues)
+[![GitHub license](https://img.shields.io/github/license/Jesse-Plcx/xiaoyuan_recognition.svg)](https://github.com/Jesse-Plcx/xiaoyuan_recognition/blob/master/LICENSE)
 
 这是一个创新的自动化项目，能够识别屏幕上的算术表达式并模拟手写结果。通过结合计算机视觉、文字识别和自动化操作，本项目展示了如何解决实际问题，是一个引人入胜的自动化应用示例。
 
